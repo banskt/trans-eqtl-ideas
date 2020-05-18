@@ -432,5 +432,8 @@ table td { text-overflow: ellipsis; overflow: hidden; max-width: 15em; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
+.post-link { display: inline-block; font-size: 1.2rem; }
+
+.post-meta { font-weight: normal; font-size: 1.2rem; }
 
 /*# sourceMappingURL=style.css.map */
