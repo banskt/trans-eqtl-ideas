@@ -46,13 +46,13 @@ minima:
 use_math: true
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
-show_description: true
+show_description: false
 
 # Set this to true to display image previews on home page, if they exist
 show_image: false
 
 # Set this to true to display tags on each post
-show_tags: true
+show_tags: false
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 
@@ -65,6 +65,9 @@ exclude:
 # this setting allows you to keep pages organized in the _pages folder
 include:
   - _pages
+
+header_pages:
+  - search.html
 
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:

@@ -8,6 +8,7 @@ _site
 vendor
 _notebooks/.ipynb_checkpoints
 _notebooks/__test.ipynb
+_posts/__test.md
 # Local Netlify folder
 .netlify
 .tweet-cache
